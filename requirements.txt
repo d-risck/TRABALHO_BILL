@@ -1,0 +1,4 @@
+glfw>=2.9,<3
+PyOpenGL>=3.1.10,<4
+numpy>=2.2,<3
+opencv-python>=4.12,<5
